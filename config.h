@@ -474,5 +474,5 @@ char ascii_printable[] =
 	"`abcdefghijklmnopqrstuvwxyz{|}~";
 
 /* bg opacity */
-unsigned int alpha = 0xcc;
+unsigned int alpha = 0xbb;
 
