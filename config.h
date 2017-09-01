@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-char font[] = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
+char font[] = "Terminus:pixelsize=18:antialias=false:autohint=true";
 int borderpx = 2;
 
 /*
@@ -109,6 +109,7 @@ const char *colorname[] = {
 	/* more colors can be added after 255 to use with DefaultXX */
 	"#cccccc",
 	"#555555",
+	"#32cd32",
 };
 
 
@@ -118,7 +119,7 @@ const char *colorname[] = {
  */
 unsigned int defaultfg = 7;
 unsigned int defaultbg = 0;
-unsigned int defaultcs = 256;
+unsigned int defaultcs = 258;
 unsigned int defaultrcs = 257;
 
 /*
