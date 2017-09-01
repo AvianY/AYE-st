@@ -472,3 +472,6 @@ char ascii_printable[] =
 	"@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_"
 	"`abcdefghijklmnopqrstuvwxyz{|}~";
 
+/* bg opacity */
+unsigned int alpha = 0xcc;
+
